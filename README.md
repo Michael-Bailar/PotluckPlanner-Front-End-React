@@ -7,9 +7,4 @@ Basically, the potluck planner app is designed to make it easier to plan potluck
 The app was built using React/Redux. We were sent endpoints to hit with requests so all we had to do was build out the front end and style it. Most of our time (Monday - Wednesday) was spent on building the structure of the app and we styled it up on thursday trying to match the visuals of the UI student who made a really nice landing page.
 
 # Tech Used
-Javascript
-React/Redux
-HTML5
-CSS
-Bootstrap/Reactstrap 
-Node/Express.js (on the back end)
+Javascript, React/Redux, HTML5, CSS, Bootstrap/Reactstrap, Node/Express.js (on the back end)
